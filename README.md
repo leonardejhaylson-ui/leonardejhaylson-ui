@@ -1,63 +1,70 @@
-# <p align="center">✨ [Seu Nome ou Nickname] ✨</p>
+# <p align="center">👋 Olá, eu sou o Jhaylson!</p>
 
 <p align="center">
-  <!-- Imagem de Banner (pode usar um GIF dark ou arte em preto e branco) -->
-  <img src="https://placeholder.com" alt="Banner" width="100%">
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <!-- Badges de Status (Opcional) -->
-  <img src="https://shields.io" alt="Stars">
   <img src="https://shields.io" alt="Followers">
+  <img src="https://shields.io" alt="Stars">
 </p>
 
 ---
 
 ## 🧠 Sobre Mim
 
-<img align="right" src="https://flaticon.com" alt="Brain Icon" width="150">
+<img align="right" src="https://vercel.app" alt="Top Langs" width="300">
 
-**Olá! Eu sou o [Seu Nome]**
-
-Sou um estudante de [Sua Área, ex: IA & Ciência de Dados] movido a café e com uma obsessão saudável por temas escuros e minimalistas. 
-
-* ☀️ **Durante o dia:** Tento entender o universo e como os dados funcionam.
-* 🌙 **Durante a noite:** Escrevo scripts em Python para automatizar tarefas simples só para evitar o trabalho manual.
-* 🕹️ **Nas horas vagas:** Provavelmente estou jogando algo ou tentando resolver bugs que eu mesmo criei.
-
-<br clear="right">
+* 🎓 Graduando em **Bacharelado em Análise e Desenvolvimento de Software** pela **ESTACIO**.
+* 🏛️ Especialização e foco em **Gestão em T.I.**
+* 📚 Base sólida em programação e lógica construída com o mestre **Gustavo Guanabara** (Curso em Vídeo).
+* 💼 Atualmente trabalhando como **Data Annotator & Evaluator**, lapidando dados para inteligências artificiais.
 
 ---
 
-## 🔥 Projetos Principais *(Construídos para evitar trabalho manual)*
+## 🛠️ Tecnologias e Ferramentas
 
-<img align="right" src="https://flaticon.com" alt="Fire Icon" width="120">
+### 🚀 Tecnologias que eu domino:
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</p>
 
-* 📁 **[Nome do Projeto 1](link):** Compartilhamento seguro de arquivos (porque alguns códigos precisam se autodestruir).
-* 🤖 **[Nome do Projeto 2](link):** Um bot de Discord que gerencia meu servidor melhor do que eu gerencio meu sono.
-* 📄 **[Nome do Projeto 3](link):** IA baseada em RAG para ler textos longos por mim, porque ler tudo dá trabalho.
-
-<br clear="right">
-
----
-
-## 🤝 Conecte-se Comigo
-
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="mailto:SEU_EMAIL@email.com"><img src="https://shields.io" alt="Email"></a>
-  <a href="https://SEU_PORTFOLIO.com"><img src="https://shields.io" alt="Resume"></a>
+### 📚 No meu radar (Atualmente Aprendendo):
+<p align="left">
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="C" />
 </p>
 
 ---
 
-## 📈 Contribuições
+## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Gráfico de commits dinâmico (substitua pelo seu usuário do GitHub) -->
-  <img src="https://herokuapp.com" alt="GitHub Streak">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="49%">
+  <img src="https://vercel.app" alt="GitHub Stats" width="49%">
 </p>
 
 ---
 
-> *"O código nunca está finalizado. Ele apenas se torna ligeiramente menos terrível com o tempo."*
+## 🤝 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhaylson-concei%C3%A7%C3%A3o-205516359/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sla.jlc?igsh=bXEzeTBmNGdteXJ4" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+  <a href="mailto:leonardejhaylson@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i>
+</p>
