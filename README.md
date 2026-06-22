@@ -1,61 +1,69 @@
-# <p align="center">👋 Olá, eu sou o Jhaylson!</p>
+# <p align="center">Synax!</p>
 
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <!-- Banner minimalista estilo mangá/dark do perfil de referência -->
+  <img src="https://githubusercontent.com" alt="Banner Jhaylson" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="Followers">
-  <img src="https://shields.io" alt="Stars">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Focus">
 </p>
 
 ---
 
-## 🧠 Sobre Mim
+### 🧠 Know About Me
 
-<img align="right" src="https://vercel.app" alt="Top Langs" width="300">
+<img align="right" src="https://githubusercontent.com" alt="Brain Minimalist" width="140">
 
-* 🎓 Graduando em **Bacharelado em Análise e Desenvolvimento de Software** pela **ESTACIO**.
-* 🏛️ Especialização e foco em **Gestão em T.I.**
-* 📚 Base sólida em programação e lógica construída com o mestre **Gustavo Guanabara** (Curso em Vídeo).
-* 💼 Atualmente trabalhando como **Data Annotator & Evaluator**, lapidando dados para inteligências artificiais.
+**Hey there! I'm Jhaylson**
+
+Sou estudante de **Bacharelado em Análise e Desenvolvimento de Software** pela **ESTÁCIO**, focado na área de **Gestão em T.I.** 
+
+Minha base sólida em lógica e programação foi moldada pelas aulas do mestre **Gustavo Guanabara** (Curso em Vídeo). Atualmente, atuo como **Data Annotator & Evaluator**, refinando e preparando dados cruciais para treinar inteligências artificiais de última geração. Desenvolvo projetos com foco em automação e arquitetura limpa, mantendo uma obsessão constante por interfaces em modo escuro.
+
+<br clear="right">
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack & Skills
 
-### 🚀 Tecnologias que eu domino:
 <p align="left">
+  <!-- Tecnologias que domina (Estilo Dark Sem Cor) -->
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
 </p>
 
-### 📚 No meu radar (Atualmente Aprendendo):
+#### 🌌 Currently Learning:
 <p align="left">
+  <!-- Tecnologias aprendendo -->
   <img src="https://shields.io" alt="Java" />
   <img src="https://shields.io" alt="C" />
 </p>
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 📦 Top Projects *(Built to avoid manual labor)*
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="49%">
-  <img src="https://vercel.app" alt="GitHub Stats" width="49%">
-</p>
+<img align="right" src="https://githubusercontent.com" alt="Fire Minimalist" width="100">
+
+* 🐍 **[Project Python](https://github.com)** — Automações inteligentes criadas para poupar cliques diários.
+* 🌐 **[Web Interface](https://github.com)** — Aplicações construídas puramente com HTML, CSS e JavaScript no tema dark.
+* ☕ **[Java & C Learning](https://github.com)** — Repositório dedicado aos algoritmos estruturados e POO em evolução.
+
+<br clear="right">
 
 ---
 
-## 🤝 Vamos nos conectar?
+### 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhaylson-concei%C3%A7%C3%A3o-205516359/" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/sla.jlc?igsh=bXEzeTBmNGdteXJ4" target="_blank">
+  <a href="https://instagram.com" target="_blank">
     <img src="https://shields.io" alt="Instagram" />
   </a>
   <a href="mailto:leonardejhaylson@gmail.com">
@@ -65,6 +73,13 @@
 
 ---
 
+### 📉 Contribution
+
 <p align="center">
-  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i>
+  <!-- Gráfico de commits customizado para o tema Dark do GitHub -->
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%">
 </p>
+
+---
+
+> *"Code is never finished. It only becomes slightly less terrible over time."*
