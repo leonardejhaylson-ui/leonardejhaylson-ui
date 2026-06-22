@@ -4,7 +4,7 @@
 
 ### Estudante de ADS | Data Annotator & Evaluator | Construindo conhecimento todos os dias
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Bacharelando+em+An%C3%A1lise+e+Desenvolvimento+de+Software;Data+Annotator+%26+Evaluator;Aprendendo+Java+e+C;Apaixonado+por+L%C3%B3gica+de+Programa%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://demolab.com" alt="Typing SVG" />
 
 <br/>
 
