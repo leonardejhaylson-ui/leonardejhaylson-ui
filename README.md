@@ -1,221 +1,74 @@
-# 👨‍💻 JHAYLSON CONCEIÇÃO
+# Jhaylson Conceição
 
-### Software Developer • Backend • Data • AI
+**Desenvolvedor Backend Jr. | TypeScript • Java • Python • PostgreSQL • Supabase • AI-assisted development**
 
-> Construindo soluções, automatizando processos e explorando novas possibilidades através de software e inteligência artificial.
+Construo projetos para aprender engenharia de software na prática, com foco em backend, APIs, dados e aplicações que utilizam inteligência artificial de forma controlada e verificável.
 
----
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho aprofundando conhecimentos em arquitetura de aplicações, bancos relacionais, segurança, testes e desenvolvimento web.
 
-## 🧠 Sobre mim
+## Projetos em destaque
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em tecnologia, desenvolvimento de software e trabalho com dados.
+### AI Fitness Operations Copilot
+Dashboard operacional para gestores de academia com métricas e insights determinísticos e um Copiloto de IA fundamentado em evidências.
 
-Meu foco está na construção de sistemas, resolução de problemas e desenvolvimento de soluções que combinem **software, dados e inteligência artificial**.
+**Stack:** Next.js, React, TypeScript, PostgreSQL, Supabase, RLS, OpenAI, Vitest, Playwright e Vercel.
 
-Atualmente estou aprofundando meus conhecimentos principalmente em **Python, Java, JavaScript e C**, enquanto desenvolvo projetos próprios para transformar conhecimento teórico em aplicações reais.
+- Arquitetura baseada no princípio: **“O software calcula fatos; a IA interpreta fatos.”**
+- Dataset sintético determinístico para demonstração e testes.
+- Metrics Engine e Insight Engine separados da camada de IA.
+- Supabase Auth, contrato multi-tenant e Row Level Security.
+- Copiloto server-side com contexto estruturado e validação de evidências.
+- Processo de desenvolvimento AI-native documentado e auditável.
 
-Tenho interesse especial por:
+[Ver repositório](https://github.com/leonardejhaylson-ui/ai-fitness-operations-copilot) · [Ver aplicação](https://ai-fitness-operations-copilot.vercel.app)
 
-* 🐍 Desenvolvimento com Python
-* ☕ Desenvolvimento com Java
-* 🌐 Aplicações Web
-* ⚙️ Back-End e APIs
-* 🤖 Inteligência Artificial
-* 📊 Dados e automação
-* 🧠 Arquitetura e lógica de sistemas
-* 🔐 Segurança e pensamento orientado a problemas
+### Sistema de Vendas Backend
+API REST em Java/Spring Boot para gerenciamento de produtos e estoque, organizada em camadas de controller, service, repository e model.
 
----
+**Stack:** Java 17, Spring Boot 3, Spring Data JPA, Hibernate, H2 e Maven.
 
-## ⚡ Tech Stack
+[Ver repositório](https://github.com/leonardejhaylson-ui/sistema-vendas-backend)
 
-### Linguagens
+### Sistema Inteligente de Monitoramento de Olhos
+Aplicação Python de visão computacional para detecção de olhos abertos/fechados, contagem de piscadas e identificação de sinais de sonolência.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
+**Stack:** Python, OpenCV, MediaPipe e pytest.
 
-### Web
+[Ver repositório](https://github.com/leonardejhaylson-ui/Detector-de-Olhos-Abertos-ou-Fechados)
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+### JARVIS WSL
+Projeto experimental de assistente e automação integrado entre Linux/WSL e Windows, combinando Shell Script, Python e visão computacional.
 
-### Ferramentas
+**Stack:** Shell, Python, OpenCV e WSL.
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+[Ver repositório](https://github.com/leonardejhaylson-ui/jarvis-wsl)
 
----
+## Tecnologias
 
-# 🚀 Projetos em destaque
+**Backend e dados:** Java, Spring Boot, Python, PostgreSQL, Supabase, SQL  
+**Web:** TypeScript, JavaScript, React, Next.js, HTML e CSS  
+**Qualidade e ferramentas:** Git, GitHub, Vitest, Playwright, Maven, pnpm  
+**IA:** integração de LLMs, contexto estruturado, validação de evidências e desenvolvimento assistido por IA
 
-## 🤖 JARVIS — Assistente IA Multimodal
+## Como estou evoluindo
 
-Projeto pessoal de longo prazo inspirado em assistentes inteligentes de ficção científica.
-
-A proposta é desenvolver um assistente capaz de combinar diferentes formas de interação:
-
-* 🎙️ Voz
-* 👁️ Visão computacional
-* 🧠 Inteligência Artificial
-* 👤 Reconhecimento
-* 👋 Gestos
-* 👀 Rastreamento ocular
-* 💻 Automação do computador
-* 🔌 Arquitetura modular
-* ⚡ Comunicação orientada a eventos
-
-O objetivo não é criar apenas um chatbot, mas experimentar a construção de um **assistente pessoal multimodal integrado ao ambiente computacional**.
-
-**Status:** Em desenvolvimento
-
----
-
-## 🐍 Projetos Python
-
-Projetos voltados para:
-
-* automação
-* processamento de dados
-* inteligência artificial
-* visão computacional
-* resolução de problemas
-* desenvolvimento de ferramentas
-
-> Consulte meus repositórios para acompanhar os projetos em desenvolvimento.
-
----
-
-## 🌐 Projetos Web
-
-Aplicações desenvolvidas utilizando:
-
-* HTML
-* CSS
-* JavaScript
-
-Com foco em:
-
-* interfaces
-* experiência do usuário
-* lógica de aplicações
-* responsividade
-* integração entre Front-End e Back-End
-
----
-
-# 🎯 Atualmente
-
-Estou direcionando meus estudos e projetos para evoluir principalmente em:
+Meu foco atual é fortalecer os fundamentos necessários para atuar como desenvolvedor backend e construir sistemas completos:
 
 ```text
-Problem Solving
-      ↓
-Programming Logic
-      ↓
-Backend Development
-      ↓
-APIs & Systems
-      ↓
-Data & Automation
-      ↓
-Artificial Intelligence
-      ↓
-Software Architecture
+Problema → Requisitos → Arquitetura → Dados → Backend/API
+        → Testes → Segurança → Deploy → Observabilidade
 ```
 
-Meu objetivo é deixar de apenas **escrever código** e me tornar cada vez melhor em **entender problemas, projetar soluções e construir sistemas completos**.
+Também estou explorando desenvolvimento **AI-native**: usar IA para planejamento, implementação e revisão sem abrir mão de contratos, testes, segurança e validação humana.
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas** — em andamento.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/jhaylson-concei%C3%A7%C3%A3o-205516359/) · [GitHub](https://github.com/leonardejhaylson-ui)
 
 ---
 
-# 📚 Formação
-
-🎓 **Bacharelado em Análise e Desenvolvimento de Sistemas**
-
-📖 Estudos complementares em:
-
-* Programação
-* Lógica de programação
-* Desenvolvimento de software
-* Python
-* Java
-* JavaScript
-* C
-* Dados
-* Inteligência Artificial
-
----
-
-# 🧩 Como penso sobre desenvolvimento
-
-> **Código é uma ferramenta. Resolver problemas é a habilidade.**
-
-Antes de pensar em qual tecnologia utilizar, procuro entender:
-
-```text
-Qual é o problema?
-        ↓
-Quem possui esse problema?
-        ↓
-O que essa pessoa realmente precisa?
-        ↓
-Como transformar isso em uma solução?
-        ↓
-Qual arquitetura faz sentido?
-        ↓
-Como tornar a solução segura, escalável e fácil de manter?
-```
-
-Esse processo orienta meus estudos e meus projetos pessoais.
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardejhaylson-ui\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardejhaylson-ui\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
-# 🌐 Conecte-se comigo
-
-<p align="center">
-
-<a href="https://github.com/leonardejhaylson-ui">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jhaylson-concei%C3%A7%C3%A3o-205516359/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sla.jlc">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### `while(alive) { learn(); build(); solve(); }`
-
-**Jhaylson Conceição • Software Development • Data • AI**
-
-</div>
-
+> Código é uma ferramenta. Entender o problema, tomar boas decisões e verificar o resultado é o que transforma código em software.
